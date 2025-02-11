@@ -28,8 +28,10 @@
 - **Queue User APC Injection**
 - **Atom Bombing**
 - **Parent PID Spoofing**
+- **Native .NET Code Injection**
 
 🔗 [EDR Bypass Methods](https://lnkd.in/d7wiwZzr)
+🔗 [Native .NET Code Injection](https://lnkd.in/dDNZ7Czr)
 
 ### 🔹 Sandbox Evasion
 - **Checking CPU Cores**: Many sandboxes run on a single core.
@@ -45,6 +47,18 @@
 🔗 [Loldrivers](https://lnkd.in/dzCBh8bu)
 🔗 [BYOVD Kill EDR](https://lnkd.in/dAx3cmwv)
 
+## 🛠️ Tools for Evasion
+- [Veil Evasion Framework](https://lnkd.in/d-F_689m)
+- [Avet Project](https://lnkd.in/eAaAttW)
+- [Avlator](https://lnkd.in/eVZrPGF)
+- [Shellcode Templates](https://lnkd.in/drNaYnUy)
+- [Mortar Evasion](https://lnkd.in/drh-zCj2)
+- [AtomPePacker](https://lnkd.in/dMCqisAm)
+- [Phantom Evasion](https://lnkd.in/dcYCSx95)
+- [PEObfuscator](https://lnkd.in/dA5Hp7PF)
+- [AMSI Bypass Powershell](https://lnkd.in/d9HC5R5C)
+- [SharpBlock](https://lnkd.in/dWUY8f5Y)
+
 ## 📜 Articles & Resources
 - [Bypass-AV](https://github.com/matro7sh/BypassAV/blob/main/Bypass-AV.md)
 - [Awesome EDR Bypass](https://lnkd.in/dahyXpNg)
@@ -54,3 +68,4 @@
 - [Pentesting - Defenses Evasion Cheat Sheet](https://github.com/kmkz/Pentesting/blob/master/Defenses-Evasion-Cheat-Sheet)
 - [Awesome Red Teaming - Defense Evasion](https://github.com/HildeTeamTNT/Awesome-Red-Teaming?tab=readme-ov-file#-defense-evasion)
 - [Awesome EDR Bypass](https://github.com/tkmru/awesome-edr-bypass)
+
