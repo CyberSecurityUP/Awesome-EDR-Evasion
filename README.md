@@ -78,26 +78,6 @@
 🔗 [Loldrivers](https://lnkd.in/dzCBh8bu)  
 🔗 [BYOVD Kill EDR](https://lnkd.in/dAx3cmwv)  
 
-## 🛠️ Tools for Evasion
-- [Veil Evasion Framework](https://lnkd.in/d-F_689m)
-- [Avet Project](https://lnkd.in/eAaAttW)
-- [Avlator](https://lnkd.in/eVZrPGF)
-- [Shellcode Templates](https://lnkd.in/drNaYnUy)
-- [Mortar Evasion](https://lnkd.in/drh-zCj2)
-- [AtomPePacker](https://lnkd.in/dMCqisAm)
-- [Phantom Evasion](https://lnkd.in/dcYCSx95)
-- [PEObfuscator](https://lnkd.in/dA5Hp7PF)
-- [AMSI Bypass Powershell](https://lnkd.in/d9HC5R5C)
-- [SharpBlock](https://lnkd.in/dWUY8f5Y)
-
-### 🔹 LOLBins & LOLDrivers
-- **Living Off The Land Binaries (LOLBins)**: Using trusted Windows executables for malicious purposes.
-- **BYOVD (Bring Your Own Vulnerable Driver)**: Exploiting signed vulnerable drivers to disable security products.
-- **Abusing Windows Defender & Other Security Services**: Using native features against the system.
-
-🔗 [EDR Bypass with LOLBins](https://lnkd.in/dr-ApKba)  
-🔗 [Loldrivers](https://lnkd.in/dzCBh8bu)  
-🔗 [BYOVD Kill EDR](https://lnkd.in/dAx3cmwv)  
 
 ### 🔹 AMSI Bypass
 - **AMSI Patch**: Overwriting AMSI.dll functions in memory.
