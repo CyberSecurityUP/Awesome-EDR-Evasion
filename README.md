@@ -99,6 +99,33 @@
 🔗 [Loldrivers](https://lnkd.in/dzCBh8bu)  
 🔗 [BYOVD Kill EDR](https://lnkd.in/dAx3cmwv)  
 
+### 🔹 AMSI Bypass
+- **AMSI Patch**: Overwriting AMSI.dll functions in memory.
+- **AMSI Unhooking**: Removing hooks in AMSI functions.
+- **AMSI Reflection**: Using reflection in PowerShell to disable AMSI.
+- **AMSI Argument Spoofing**: Modifying arguments to bypass scanning.
+- **Environment Variable Poisoning**: Exploiting environment variables to disable AMSI.
+
+🔗 [AMSI Bypass Techniques](https://github.com/RythmStick/AMSI-Bypass)  
+🔗 [AMSI Bypass via Reflection](https://github.com/RythmStick/AMSI-Bypass)  
+
+### 🔹 LSASS Dumping & Credential Theft
+- **Mimikatz**: Extracting credentials from LSASS.
+- **MiniDumpWriteDump**: Dumping LSASS memory.
+- **NTDLS Cloning**: Bypassing credential protection by cloning LSASS.
+- **Direct Syscalls for LSASS Dump**: Avoiding API calls monitored by EDR.
+- **Token Impersonation**: Using stolen tokens for privilege escalation.
+
+🔗 [Mimikatz](https://github.com/gentilkiwi/mimikatz)  
+🔗 [SharpDump](https://github.com/GhostPack/SharpDump)  
+
+### 🔹 Protected Process Light (PPL) Bypass
+- **Using Vulnerable Drivers**: Modifying process privileges.
+- **Token Manipulation**: Using stolen tokens to disable PPL.
+- **Memory Patching**: Modifying system memory to remove PPL protection.
+
+🔗 [PPLdump](https://github.com/itm4n/PPLdump)  
+🔗 [SharpPPL](https://github.com/Am0nsec/SharpPPL) 
 
 ## 🛠️ Tools for Evasion
 - [Veil Evasion Framework](https://lnkd.in/d-F_689m)  
